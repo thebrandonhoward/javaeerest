@@ -1,0 +1,2 @@
+# javaeerest
+javax CDI template
